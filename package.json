@@ -1,0 +1,10 @@
+{
+  "name": "@erictooth/prettier-config",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Eric Mantooth",
+  "license": "UNLICENSED",
+  "peerDependencies": {
+    "prettier": "^1.0.0"
+  }
+}
